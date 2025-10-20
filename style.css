@@ -1,0 +1,484 @@
+
+/* color de fondo del sitio web */
+
+body {
+      background-color:  rgb(13, 8, 60); 
+
+
+}
+
+
+/* logo */
+.img{
+
+  width: 200px;
+  height: 200px;
+  display: block; 
+  margin: 0px auto; 
+  background-position: center;
+  align-items: center;
+  justify-content: center;
+  
+ 
+}
+
+
+/* titulo - Community manager */
+
+.sidebar{
+
+   width: 25%;
+   background-color:  rgb(130, 143, 12);
+   color: #f8f5f5;
+   font-size: medium;
+   padding: 20px;
+}
+
+
+/*  */
+.container{
+display: flex;
+text-align: center;
+align-items: center;
+}
+
+/* titulo - creadora de estrategias y congtenido digital */
+.main-content{
+
+     width: 80%;
+     background-color: rgb(195, 166, 178);
+     font-size: small;
+     color:  #fff;
+     text-align: center;
+     padding: 20px;
+     font-size: larger;
+   
+    
+
+}
+
+  /* menu */
+.navbar{
+
+      background-color:rgb(130, 143, 12);
+     
+     
+
+      
+}
+
+
+.navbar ul{
+
+      display: flex;
+      list-style: none;
+      padding: 0%;
+      margin: 0%;
+
+}
+
+      
+.navbar li{
+
+      margin: 0 0px;
+      color: #fff;
+      
+}
+
+
+
+.navbar a{
+
+      color: #fff;
+      text-decoration: none;
+      padding: 20px 30px;
+      display: block;
+}
+
+/* mouse sobre menu se ponen titulos azules */
+.pseudoclase:hover{
+
+      color: rgb(17, 22, 163);
+      font-size: 30px;
+}
+
+
+/* titulo principal*/
+.Renovatia {
+background-color: rgb(238, 238, 241);
+border-radius: 50px;
+color: rgb(218, 129, 187);
+text-align: center;
+font-family: "Lobster Two", sans-serif;
+font-size: 100px;
+height: 100px;
+padding: 40px
+
+
+}
+
+
+/* haz que tu marca conecte... */
+ 
+
+ 
+.community{
+
+
+ background-color: rgb(195, 166, 178);
+ color:  rgb(13, 8, 60); 
+ font-size: xx-large;
+ font-family: "Lobster Two", sans-serif;
+ text-align: center;
+ border-radius: 20px;
+
+
+}
+
+
+/* hola soy gabriela */
+.presentacion{
+
+       background-color:rgb(209, 221, 104);
+       color: black;
+       font-size: x-large;
+       border-radius: 50px;
+}
+
+
+/* esto no recuerdo que es, no lo quise sacar por miedo a romper todo */
+.floating{
+text-align: left;
+
+}
+
+
+/*  titulos-que puedo hacer por tu marca y mis objetivos */
+h2{
+ color:#fff;
+ font-size: x-large;
+ font-family:"Lobster Two", sans-serif;
+ text-decoration: underline;
+ 
+}
+
+/* viñetas - que puedo hacer por tu marca */
+ .viñetas{
+  color: black;
+  text-align: left;
+  justify-items: center;
+  display: flex;
+  background-color: rgb(195, 166, 178);
+  font-size: large;
+  justify-content: center;
+  padding: 20px;
+  
+
+  }
+
+
+  /* mis objetivos */
+.objetivo{
+
+      background-color: #fff;
+      color: black;
+}
+
+
+/*link portfolio  */
+.boton:hover{
+
+      background-color: rgb(11, 226, 11);
+}
+
+/* boton link portfolio */
+.boton{
+    background-color: #fff;
+    font-size: medium;
+
+}
+
+
+/*link portfolio - resaltado*/
+.boton:hover{
+
+      background-color: rgb(11, 226, 11);
+}
+
+
+.container{
+display: flex;
+text-align: center;
+align-items: center;
+}
+
+
+/* llamada a la accion */
+.cta{
+
+     background-color: black;
+     color: rgb(0, 255, 68);
+     font-size: large;
+     border-radius: 20px;
+     padding: 30px;
+     
+
+
+}
+
+
+
+                                                          /* creo q esta repetido */
+.main-content{
+
+     width: 75%;
+     background-color: rgb(195, 166, 178);
+     color:  #fff;
+     text-align: center;
+     padding: 20px;
+   
+    
+
+}
+
+
+header{
+ background-color: rgb(13, 8, 60); ;
+ color: #fff(0, 0, 0);
+ font-family: "Lobster Two", sans-serif;
+ text-align: center;
+ padding: 20px;
+ border: 0px;
+ flex-direction:column;
+ flex-grow: initial;
+ justify-content: space-between;
+
+}
+
+main{
+ background-color: rgb(13, 8, 60); 
+ color: rgb(0, 0, 0);
+ font-size: x-medium;
+ font-family: "Lobster Two", sans-serif;
+ margin-left: 5px;
+ text-align: center;
+}
+ 
+
+
+
+
+
+
+link{
+ color: #fff;
+ font-size: medium;
+ align-items: center;
+ font-weight: 20px ;
+}
+
+
+
+
+/* llamada a la accion */
+.cta{
+
+     background-color: black;
+     color: rgb(0, 255, 68);
+     font-size: large;
+     border-radius: 20px;
+     padding: 30px;
+     
+
+
+}
+
+/* boton link portfolio */
+.boton{
+    background-color: #fff;
+    font-size: medium;
+
+}
+
+/*link portfolio - resaltado*/
+.boton:hover{
+
+      background-color: rgb(11, 226, 11);
+}
+
+
+
+
+
+/*titulos en cada html (servicios, packs, contacto y redes)  */
+.titulos{
+ background-color:aliceblue;
+ color:rgb(195, 166, 178);
+ font-size: 600%;
+ font-weight: bold;
+ font-size: xx-large;
+ text-decoration: underline;
+ text-align: center;
+
+}
+
+
+
+/* intro servicios */
+p{
+ color: #fff;  
+ font-family: "Lobster Two", sans-serif;
+ font-size: 100%;
+ margin: 20px;
+ text-align: center
+
+}
+
+
+/*solapa servicios - valor agregado*/
+#exclusivo{
+          background-color:rgb(195, 166, 178);
+          color: rgb(13, 8, 60);
+          font-family: "Lobster Two", sans-serif;
+          font-size: 100%;
+          font-size: medium;
+          align-items: center;
+          align-content: center;
+}
+/* detalle del valor agregado */
+.valor{
+      background-color:#fff;
+      color:black;
+      font-family: "Lobster Two", sans-serif;
+      
+
+
+}
+
+/*solapa servicios + contacto*/
+h3{
+ color: #fff;
+ font-family: "Lobster Two", sans-serif;
+ font-size: medium;
+ margin: 20px;
+ text-align: center;
+}
+
+
+
+
+/* solapa packs - grilla de packs */
+
+.grilla{
+
+     width: 90%;
+     height: 30vh;
+     justify-items: center;
+     background-color: rgb(212, 208, 208);
+     font-size: large;
+     text-align: left;
+     align-items: normal;
+     align-content: first baseline;
+     line-height: 20px;
+     padding: 20px;
+     border: 3px solid black;
+     margin: 20px;
+     display: grid;
+     grid-template-columns: 1fr 2fr 1fr;
+     position: sticky;
+     display: flex;
+     gap: 2px;
+     justify-content: center;
+     flex-direction: row
+     
+
+}
+
+
+.set{
+     color: rgb(130, 143, 12);
+     text-align: left;
+     font-family:"Lobster Two", sans-serif;
+     font-size: larger;
+     display: flex;
+     justify-content: flex-start;
+     flex-direction: column;
+}
+
+.incluye{
+  color: black;
+  height: 100px;
+  flex-grow: 1px;
+  text-align: left;
+  padding: 05px;
+  font-size: medium;
+  text-align: start;
+  text-decoration: none;
+  display: flex;
+  justify-items:flex-start;
+  flex-direction: column;
+  
+
+  
+  
+  
+}
+   
+  /* solapa packs - adicionales */
+#extras{
+    color: red;
+    background-color: rgb(0, 0, 0);
+    font-size: medium;
+    text-decoration: underline;
+    text-align: center;
+
+
+}
+
+ 
+
+ 
+.items{
+  color: black;
+  text-align: left;
+  justify-items: center;
+  display: flex;
+  background-color: rgb(195, 166, 178);
+  font-size: medium;
+  align-items: start;
+  justify-content: center;
+  padding: 20px;
+  list-style: circle;
+  list-style-position: initial;
+  
+
+}
+
+
+/*solapa contacto */
+.input{
+ margin: 50px;
+ padding: 50px;
+align-content: center;
+
+}
+
+/* volver a inicio */
+.volver{
+
+      color: #fff;
+      text-align: center;
+      margin-right: 50%;
+
+}
+
+
+
+/* pie de pagina */
+
+.footer{
+ color: #fff;
+ font-family: Arial, Helvetica, sans-serif;
+ text-align: center;
+ font-size: small;
+}
